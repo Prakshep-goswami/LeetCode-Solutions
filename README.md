@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Tree
+|  |
+| ------- |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
