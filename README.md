@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
