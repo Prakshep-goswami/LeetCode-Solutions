@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
