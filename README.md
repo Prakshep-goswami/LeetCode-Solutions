@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [1182-game-play-analysis-iv](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
