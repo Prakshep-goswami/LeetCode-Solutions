@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1923-sentence-similarity-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -182,5 +184,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
