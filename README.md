@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
 |  |
 | ------- |
