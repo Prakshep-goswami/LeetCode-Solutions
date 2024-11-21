@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Database
 |  |
