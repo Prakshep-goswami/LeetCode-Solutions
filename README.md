@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3189-find-champion-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 ## Array
 |  |
 | ------- |
