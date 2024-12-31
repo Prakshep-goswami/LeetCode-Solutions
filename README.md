@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0494-target-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
