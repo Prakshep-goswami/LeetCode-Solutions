@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3427-special-array-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
