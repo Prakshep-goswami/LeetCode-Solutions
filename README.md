@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1972-rotating-the-box](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
