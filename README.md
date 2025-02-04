@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
