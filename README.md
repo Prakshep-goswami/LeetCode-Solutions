@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Tree
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
