@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
+| [2478-longest-nice-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2478-longest-nice-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
