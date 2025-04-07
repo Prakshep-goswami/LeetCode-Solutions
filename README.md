@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
