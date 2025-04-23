@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
