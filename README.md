@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
