@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3189-find-champion-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Database
 |  |
 | ------- |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Ordered Set
 |  |
 | ------- |
