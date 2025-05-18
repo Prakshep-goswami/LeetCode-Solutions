@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
