@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3427-special-array-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## String
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -587,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2478-longest-nice-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3394-minimum-array-end](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
