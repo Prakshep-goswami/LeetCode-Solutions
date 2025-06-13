@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2586-longest-square-streak-in-an-array](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
