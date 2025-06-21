@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2915-count-of-interesting-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
