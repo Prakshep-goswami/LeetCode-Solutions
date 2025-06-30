@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
