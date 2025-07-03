@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0567-permutation-in-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0812-rotate-string) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
