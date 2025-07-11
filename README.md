@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2479-meeting-rooms-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [2479-meeting-rooms-iii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
