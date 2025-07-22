@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1813-maximum-erasure-value](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-construct-k-palindrome-strings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1813-maximum-erasure-value](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1813-maximum-erasure-value](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
