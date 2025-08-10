@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0900-reordered-power-of-2](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
