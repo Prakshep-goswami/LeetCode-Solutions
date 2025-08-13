@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0326-power-of-three](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
