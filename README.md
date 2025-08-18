@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
