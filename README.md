@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3830-find-closest-person](https://github.com/Prakshep-goswami/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
